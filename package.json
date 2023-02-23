@@ -1,0 +1,24 @@
+{
+  "name": "webauthn-encoding",
+  "version": "0.1.0-rc1",
+  "description": "decode/encode webauthn api config/to plain objects for http requests",
+  "main": "index.mjs",
+  "files": [
+    "index.mjs"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guoyk93/webauthn-encoding.git"
+  },
+  "keywords": [
+    "webauthn",
+    "encoding",
+    "json"
+  ],
+  "author": "Guo Y.K.",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guoyk93/webauthn-encoding/issues"
+  },
+  "homepage": "https://github.com/guoyk93/webauthn-encoding#readme"
+}
